@@ -26,3 +26,4 @@ Pour vérifier si Python est installé, exécutez la commande suivante dans votr
 
 ```bash
 python --version
+pip install requests
