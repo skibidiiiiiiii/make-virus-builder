@@ -1,28 +1,28 @@
 # Fake Virus Maker Tool
 
-**Fake Virus Maker Tool** is an educational Python application designed to simulate the creation of various types of malware for learning purposes. This tool does not create real viruses and is intended solely for demonstration and educational use.
+**Fake Virus Maker Tool** est une application éducative en Python conçue pour simuler la création de différents types de malwares à des fins pédagogiques. Cet outil ne génère pas de vrais virus et est destiné uniquement à des fins de démonstration et d'apprentissage.
 
 ---
 
-## Features
+## Fonctionnalités
 
-- **User-Friendly Interface**: Built with CustomTkinter for a modern, dark-themed UI.
-- **Supported Virus Simulations**:
-  - **Ransomware**: Prompts for a decryption key.
-  - **Keylogger**: Simulates entering a webhook URL.
-  - **Trojan**: Requires a target file path.
-  - **Worm**: Simulates a spreading directory.
-- **Output File**: Simulates generating a file with the specified name.
+- **Interface conviviale** : Construite avec CustomTkinter pour une interface moderne et à thème sombre.
+- **Simulations de virus prises en charge** :
+  - **Ransomware** : Demande une clé de décryptage.
+  - **Keylogger** : Simule l'entrée d'une URL de webhook.
+  - **Trojan** : Nécessite un chemin de fichier cible.
+  - **Worm** : Simule un répertoire de propagation.
+- **Fichier de sortie** : Simule la création d'un fichier avec le nom spécifié.
 
 ---
 
 ## Installation
 
-### 1. Install Python
+### 1. Installer Python
 
-Make sure you have Python 3.7 or higher installed. You can download the latest version of Python from [python.org](https://www.python.org/downloads/). 
+Assurez-vous d'avoir Python 3.7 ou une version supérieure installée. Vous pouvez télécharger la dernière version de Python depuis [python.org](https://www.python.org/downloads/). 
 
-To verify if Python is installed, run the following command in your terminal or command prompt:
+Pour vérifier si Python est installé, exécutez la commande suivante dans votre terminal ou invite de commandes :
 
 ```bash
 python --version
